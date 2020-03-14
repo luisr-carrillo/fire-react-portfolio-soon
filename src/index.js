@@ -1,8 +1,15 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
+import TagManager from 'react-gtm-module';
+import 'reset-css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+
+const tagManagerArgs = {
+    gtmId: process.env.REACT_APP_GTM_ID,
+};
+
+TagManager.initialize(tagManagerArgs);
 
 ReactDOM.render(<App />, document.getElementById('root'));
 

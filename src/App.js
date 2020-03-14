@@ -1,22 +1,21 @@
 import React from 'react';
 import './App.css';
+import Suscripcion from './components/Suscripcion';
+import SocialMedia from './components/SocialMedia';
 
-const App = () => {
-    return (
-        <div className="App">
-            <header className="App-header">
-                <p>Edit src/App.js and save to reload.</p>
-                <a
-                    className="App-link"
-                    href="https://reactjs.org"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                >
-                    Learn React
-                </a>
-            </header>
+const App = () => (
+    <div className="container">
+        <div className="cuadro">
+            <h1>
+                Luis R. Carrillo | <span>Desarrollador Web</span>
+            </h1>
+            <h2>Próximamente</h2>
+            <hr />
+            <h3>Notificarme cuando este disponible</h3>
+            <Suscripcion />
+            <SocialMedia />
         </div>
-    );
-};
+    </div>
+);
 
 export default App;
