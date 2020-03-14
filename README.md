@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## My React Boilerplate
+## Portfolio Coming Soon Page
 
-Estructura inicial para proyectos React
+Página de "Próximamente" para mi portafolio personal
