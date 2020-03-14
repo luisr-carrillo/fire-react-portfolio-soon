@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/portfolio-preview/static/css/main.65410c55.chunk.css",
-    "main.js": "/portfolio-preview/static/js/main.25e222a9.chunk.js",
-    "main.js.map": "/portfolio-preview/static/js/main.25e222a9.chunk.js.map",
-    "runtime-main.js": "/portfolio-preview/static/js/runtime-main.b520cbd2.js",
-    "runtime-main.js.map": "/portfolio-preview/static/js/runtime-main.b520cbd2.js.map",
-    "static/css/2.117ce29f.chunk.css": "/portfolio-preview/static/css/2.117ce29f.chunk.css",
-    "static/js/2.5e93f324.chunk.js": "/portfolio-preview/static/js/2.5e93f324.chunk.js",
-    "static/js/2.5e93f324.chunk.js.map": "/portfolio-preview/static/js/2.5e93f324.chunk.js.map",
-    "index.html": "/portfolio-preview/index.html",
-    "precache-manifest.66dc3edb8ef49b1a15395489e32d2a26.js": "/portfolio-preview/precache-manifest.66dc3edb8ef49b1a15395489e32d2a26.js",
-    "service-worker.js": "/portfolio-preview/service-worker.js",
-    "static/css/2.117ce29f.chunk.css.map": "/portfolio-preview/static/css/2.117ce29f.chunk.css.map",
-    "static/css/main.65410c55.chunk.css.map": "/portfolio-preview/static/css/main.65410c55.chunk.css.map",
-    "static/js/2.5e93f324.chunk.js.LICENSE.txt": "/portfolio-preview/static/js/2.5e93f324.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/portfolio-preview/static/media/bricks-background.5467f594.jpeg"
+    "main.css": "/static/css/main.88f5a213.chunk.css",
+    "main.js": "/static/js/main.b7e3c811.chunk.js",
+    "main.js.map": "/static/js/main.b7e3c811.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b5b7ad67.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b5b7ad67.js.map",
+    "static/css/2.117ce29f.chunk.css": "/static/css/2.117ce29f.chunk.css",
+    "static/js/2.0922e689.chunk.js": "/static/js/2.0922e689.chunk.js",
+    "static/js/2.0922e689.chunk.js.map": "/static/js/2.0922e689.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.73eec9970b73732f2d1d9dc35b55dd61.js": "/precache-manifest.73eec9970b73732f2d1d9dc35b55dd61.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.117ce29f.chunk.css.map": "/static/css/2.117ce29f.chunk.css.map",
+    "static/css/main.88f5a213.chunk.css.map": "/static/css/main.88f5a213.chunk.css.map",
+    "static/js/2.0922e689.chunk.js.LICENSE.txt": "/static/js/2.0922e689.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/bricks-background.5467f594.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b520cbd2.js",
+    "static/js/runtime-main.b5b7ad67.js",
     "static/css/2.117ce29f.chunk.css",
-    "static/js/2.5e93f324.chunk.js",
-    "static/css/main.65410c55.chunk.css",
-    "static/js/main.25e222a9.chunk.js"
+    "static/js/2.0922e689.chunk.js",
+    "static/css/main.88f5a213.chunk.css",
+    "static/js/main.b7e3c811.chunk.js"
   ]
 }
